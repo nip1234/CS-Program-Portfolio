@@ -20,3 +20,7 @@ This portfolio will be updated with various projects as they are completed. Curr
 *   **Key Features**:
     *   Loads course data from a CSV file.
     *   Utilizes a Binary Search Tree (BST) for efficient storage and retrieval of course objects.
+    *   Displays a sorted list of all courses in alphanumeric order.
+    *   Allows users to search for specific courses and view their titles and prerequisites.
+    *   Implements robust error handling and a user-friendly menu interface.
+*   **Concepts Demonstrated**: Binary Search Trees, file I/O, string manipulation, algorithm design, and object-oriented programming principles.
